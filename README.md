@@ -5,7 +5,7 @@ This repository contains a complete, practical example of a multi-agent system d
 The system is model-agnostic and can switch seamlessly between a local backend (Ollama/Llama 3) and a cloud backend (OpenAI API).
 
 ## Step-by-Step Tutorial: 
-For a detailed breakdown of the architecture, design choices, and how the code works under the hood, check out the accompanying Medium Article: 
+For a detailed breakdown of the architecture, design choices, and how the code works under the hood, check out the accompanying Medium Article: https://medium.com/towards-artificial-intelligence/963a5b2081fb
 
 ---
 
