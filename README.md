@@ -16,16 +16,14 @@ Before running the script, make sure you have the following installed on your ma
 
 ---
 
-## Setup & Installation
+## Setup & Installation: Follow these steps to get the project running on your local machine:
 
-Follow these steps to get the project running on your local machine:
-
-### 1. Clone the Repository
 ```bash
+### 1. Clone the Repository
 git clone [https://github.com/Sari95/langgraph-multi-agent-ticket-triage.git](https://github.com/Sari95/langgraph-multi-agent-ticket-triage.git)
 cd langgraph-multi-agent-ticket-triage
 
-**### 2. Create and Activate a Virtual Environment**
+### 2. Create and Activate a Virtual Environment
 I recommend using a virtual environment to keep your dependencies clean.
 On Windows:
 python -m venv myenv
